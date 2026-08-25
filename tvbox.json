@@ -45,19 +45,19 @@
       "filterable": 1,
       "ext": ""
     },
-     {
-      "key": "drpy_js_奇珍异兽",
-      "name": "🦚官源┃爱奇艺[js]",
-      "type": 3,
-      "api": "https://box.iqinu.com/lib/drpy2.min.js",
-      "ext": "https://box.iqinu.com/js/奇珍异兽.js"
+    {
+    "key": "drpy_js_奇珍异兽",
+    "name": "🦚官源┃爱奇艺[js]",
+    "type": 3,
+    "api": "https://tv.203511.xyz/lib/drpy2.min.js",
+    "ext": "https://tv.203511.xyz/js/奇珍异兽.js"
     },
     {
-      "key": "drpy_js_腾云驾雾",
-      "name": "🥉官源┃腾讯[js]",
-      "type": 3,
-      "api": "https://box.iqinu.com/lib/drpy2.min.js",
-      "ext": "https://box.iqinu.com/js/腾云驾雾.js"
+    "key": "drpy_js_腾云驾雾",
+    "name": "🥉官源┃腾讯[js]",
+    "type": 3,
+    "api": "https://tv.203511.xyz/lib/drpy2.min.js",
+    "ext": "https://tv.203511.xyz/js/腾云驾雾.js"
     },
     {
       "name": "📦①线┃秒播",
