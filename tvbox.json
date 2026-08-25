@@ -101,12 +101,12 @@
 			"ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
 		},
 	  {
-			"key": "wawa",
-			"name": "🍼┃哇哇┃影视",
-			"type": 3,
-			"api": "./py/哇哇APP.py",
-			"searchable": 1
-		},
+      "key": "wawa",
+      "name": "🍼┃哇哇┃影视",
+      "type": 3,
+      "api": "https://iduo.us.ci/gt/leevi0709/one/main/py/哇哇APP.py",
+      "searchable": 1
+    },
 	  {
 			"key": "橘皮",
 			"name": "🍊┃橘皮┃影视",
