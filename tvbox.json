@@ -46,18 +46,22 @@
       "ext": ""
     },
     {
-    "key": "drpy_js_奇珍异兽",
-    "name": "🦚官源┃爱奇艺[js]",
-    "type": 3,
-    "api": "https://tv.203511.xyz/lib/drpy2.min.js",
-    "ext": "https://tv.203511.xyz/js/奇珍异兽.js"
+      "key": "csp_xml_量子资源",
+      "name": "🐝量子资源",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
-    "key": "drpy_js_腾云驾雾",
-    "name": "🥉官源┃腾讯[js]",
-    "type": 3,
-    "api": "https://tv.203511.xyz/lib/drpy2.min.js",
-    "ext": "https://tv.203511.xyz/js/腾云驾雾.js"
+      "key": "csp_xml_非凡资源",
+      "name": "🐝非凡资源",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "name": "📦①线┃秒播",
