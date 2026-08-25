@@ -64,15 +64,16 @@
       "quickSearch": 1
     },
 	  {
-			"key": "戒",
-			"name": "🐌┃视界┃秒播",
-			"type": 3,
-			"api": "./js/jys.js",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
-		},
+  "key": "戒",
+  "name": "🐌┃视界┃秒播",
+  "type": 3,
+  "api": "https://iduo.us.ci/gt/leevi0709/one/main/js/jys.js",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "changeable": 0,
+  "ext": ""
+},
     {
 			"key": "免扫4K",
 			"name": "♻┃高清┃秒播",
