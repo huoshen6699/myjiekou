@@ -46,6 +46,18 @@
       "ext": ""
     },
     {
+      "key":"drpy_js_奇珍异兽",
+      "name":"🦚官源┃爱奇艺[js]",
+      "type":3,
+      "api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"
+    },
+    {
+      "key":"drpy_js_腾云驾雾",
+      "name":"🥉官源┃腾讯[js]",
+      "type":3,
+      "api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"
+    },
+    {
       "name": "📦①线┃秒播",
       "key": "AppV7Fz",
       "type": 3,
