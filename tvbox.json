@@ -1,0 +1,118 @@
+{
+  "spider": "https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RongjiLi_V2.6.2/jar/aowu.jar",
+  "lives": [
+    {
+      "name": "默认列表",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJLIVE_V2.6.8/rj_live.m3u"
+    },
+    {
+      "name": "备用列表",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+    }
+  ],
+  "sites": [
+    {
+      "name": "🤓豆瓣┃推荐",
+      "key": "Douban",
+      "type": 3,
+      "api": "csp_DoubanAmns",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "Douban"
+    },
+    {
+      "name": "📦①线┃秒播",
+      "key": "AppV7Fz",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Fz"
+    },
+    {
+      "name": "📦②线┃秒播",
+      "key": "AppV7Xy",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xy"
+    },
+    {
+      "name": "📦③线┃秒播",
+      "key": "AppV7Zjdr",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Zjdr"
+    },
+    {
+      "name": "📦④线┃秒播",
+      "key": "AppV7Xyz",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xyz"
+    },
+    {
+      "name": "📦⑤线┃秒播",
+      "key": "AppV7Xnm",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xnm"
+    },
+    {
+      "name": "📦⑥线┃秒播",
+      "key": "AppV7Mtq",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Mtq"
+    },
+    {
+      "name": "📦⑦线┃秒播",
+      "key": "AppV7Llq",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Llq"
+    },
+    {
+      "name": "📦⑧线┃秒播",
+      "key": "AppV7Xsz",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xsz"
+    },
+    {
+      "name": "📦⑨线┃秒播",
+      "key": "AppV7Xhr",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xhr"
+    }
+  ]
+}
