@@ -116,16 +116,7 @@
       "playerType": 1,
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0718/09/bff9d4583388a55afb15a8e3c509af9b.png;md5;9AB53F593C034C2B80CDC9F4C785A6F3",
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
-    },
-   {
-      "key": "drpy_js_腾云驾雾",
-      "name": "🥉官源┃腾讯[js]",
-      "type": 3,
-      "api": "https://tv.203511.xyz/lib/drpy2.min.js",
-      "ext": "https://tv.203511.xyz/js/腾云驾雾.js",
-      "searchable": 1,
-      "quickSearch": 1
-    },
+    },
     {
 			"key": "聚合短剧",
 			"name": "✨┃聚合┃短剧",
