@@ -117,7 +117,7 @@
 			"jar": "https://ncstatic.clewm.net/rsrc/2025/0718/09/bff9d4583388a55afb15a8e3c509af9b.png;md5;9AB53F593C034C2B80CDC9F4C785A6F3",
 			"ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
 		},
-      {
+       {
       "key": "天堂",
       "name": "🍁┃天堂┃APP",
       "type": 3,
@@ -136,7 +136,7 @@
         "version": "3.0.0.7",
         "decrypt": "0"
       },
-      "hide": 0
+      "hide": 1
     },
 {
       "name": "📦①线┃秒播",
