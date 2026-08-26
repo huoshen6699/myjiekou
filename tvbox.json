@@ -118,27 +118,22 @@
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
     {
-  "key": "海绵",
-  "name": "🐬海绵┃不卡",
-  "type": 3,
-  "api": "csp_HmysGuard",
-  "timeout": 10,
-  "playerType": "2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
-},
-{
-  "key": "立播",
-  "name": "🌟立播┃不卡",
-  "type": 3,
-  "api": "csp_LibvioGuard",
-  "timeout": 10,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "siteUrl": "https://www.libvio.pw/"}
-},
+			"key": "csp_Bili",
+			"name": "🅱️┃哔哩┃合集",
+			"type": 3,
+			"api": "csp_Bili",
+			"filterable": 1,
+			"searchable": 1,
+			"changeable": 0,
+			"jar": "https://ncstatic.clewm.net/rsrc/2026/0604/20/4f195a9210254fbbb6ade0cb28fd8e17.png;md5;C4448A598C63BA1ABD49034C25B70EE4",
+			"ext": "./json/bilijihe.json"
+		},
+    {
+			"key": "聚合短剧",
+			"name": "✨┃聚合┃短剧",
+			"type": 3,
+			"api": "https://iduo.us.ci/gt/leevi0709/one/main/py/短剧聚合.py"
+		},
     {
       "name": "📦①线┃秒播",
       "key": "AppV7Fz",
