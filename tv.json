@@ -2,7 +2,67 @@
   "spider": "./jar/custom_spider.jar;md5;22f558deceb8273665c00c05d89c4c18",
   "logo": "https://avatars.githubusercontent.com/u/58679624?v=4",
   "wallpaper": "https://bing.img.run/uhd.php",
+  "lives": [
+    {
+      "name": "24live",
+      "type": 0,
+      "url": "https://urlzf.zone.id/iptv-api/output/user_result.m3u",
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "极直播电视(php)",
+      "url": "http://php.cqshushu.ggff.net/jzb.php?公众号【医工学习日志】",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "快直播体育(python)",
+      "type": 3,
+      "api": "http://urlzf.zone.id/tvjk/kzbty.py",
+      "ext": {}
+    },
+    {
+      "name": "yoo体育(python)",
+      "type": 3,
+      "api": "http://urlzf.zone.id/tvjk/yoozb.py",
+      "ext": {}
+    },
+    {
+      "name": "360pai",
+      "type": 3,
+      "api": "http://urlzf.zone.id/tvjk/360pai.py",
+      "ext": {}
+    },
+    {
+      "name": "515001",
+      "type": 3,
+      "api": "http://urlzf.zone.id/tvjk/515001.py",
+      "ext": {}
+    },
+    {
+      "name": "88KQ",
+      "url": "http://php.cqshushu.ggff.net/kqt.php?公众号【医工学习日志】",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "16万•MV",
+      "type": 0,
+      "url": "https://gh.tryxd.cn/raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"
+    }
+  ],
   "sites": [
+    {
+      "key": "荐片",
+      "name": "🏆荐片(SP)",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "drpy_js_360影视",
       "name": "🥇官源┃360[js]",
