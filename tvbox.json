@@ -117,17 +117,15 @@
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0718/09/bff9d4583388a55afb15a8e3c509af9b.png;md5;9AB53F593C034C2B80CDC9F4C785A6F3",
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
-    {
-			"key": "csp_Bili",
-			"name": "🅱️┃哔哩┃合集",
-			"type": 3,
-			"api": "csp_Bili",
-			"filterable": 1,
-			"searchable": 1,
-			"changeable": 0,
-			"jar": "https://ncstatic.clewm.net/rsrc/2026/0604/20/4f195a9210254fbbb6ade0cb28fd8e17.png;md5;C4448A598C63BA1ABD49034C25B70EE4",
-			"ext": "https://iduo.us.ci/gt/leevi0709/one/main/json/bilijihe.json"
-		},
+   {
+      "key": "drpy_js_腾云驾雾",
+      "name": "🥉官源┃腾讯[js]",
+      "type": 3,
+      "api": "https://tv.203511.xyz/lib/drpy2.min.js",
+      "ext": "https://tv.203511.xyz/js/腾云驾雾.js",
+      "searchable": 1,
+      "quickSearch": 1
+    },
     {
 			"key": "聚合短剧",
 			"name": "✨┃聚合┃短剧",
