@@ -206,6 +206,56 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Xhr"
-    }
+    },
+    {
+  "name": "📦⑩线┃秒播",
+  "key": "AppV7Shi",
+  "type": 3,
+  "api": "csp_AppV7Amns",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": "AppV7Shi"
+},
+{
+  "name": "📦⑪线┃秒播",
+  "key": "AppV7Ysp",
+  "type": 3,
+  "api": "csp_AppV7Amns",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": "AppV7Ysp"
+},
+{
+  "name": "📦⑫线┃秒播",
+  "key": "AppV7Zb",
+  "type": 3,
+  "api": "csp_AppV7Amns",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": "AppV7Zb"
+},
+{
+  "name": "📦⑬线┃秒播",
+  "key": "AppV7Hh",
+  "type": 3,
+  "api": "csp_AppV7Amns",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": "AppV7Hh"
+},
+{
+  "name": "📦⑭线┃秒播",
+  "key": "AppV7Mm",
+  "type": 3,
+  "api": "csp_AppV7Amns",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": "AppV7Mm"
+}
   ]
 }
