@@ -118,6 +118,28 @@
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
     {
+  "key": "海绵",
+  "name": "🐬海绵┃不卡",
+  "type": 3,
+  "api": "csp_HmysGuard",
+  "timeout": 10,
+  "playerType": "2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
+{
+  "key": "立播",
+  "name": "🌟立播┃不卡",
+  "type": 3,
+  "api": "csp_LibvioGuard",
+  "timeout": 10,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "siteUrl": "https://www.libvio.pw/"}
+},
+    {
       "name": "📦①线┃秒播",
       "key": "AppV7Fz",
       "type": 3,
