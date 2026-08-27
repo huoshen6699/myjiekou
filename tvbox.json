@@ -35,6 +35,45 @@
       "ext": "Guazi"
     },
     {
+      "name": "⭐夏天┃秒播",
+      "key": "NewGrV2",
+      "type": 3,
+      "api": "csp_NewGrV2Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "NewGrV2"
+    },
+    {
+      "name": "📦师兄┃秒播",
+      "key": "AppV6Dxs",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Dsx"
+    },
+    {
+      "name": "🧩金牌┃快速",
+      "key": "JinPai",
+      "type": 3,
+      "api": "csp_JinPaiAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🧩热播┃快速",
+      "key": "Rbys",
+      "type": 3,
+      "api": "csp_RbysAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Rbys"
+    },
+    {
       "key": "HkybSpider",
       "name": "世界┃App",
       "type": 3,
@@ -132,38 +171,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Fz"
-    },
-    {
-      "name": "📦②线┃秒播",
-      "key": "AppV7Xy",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xy"
-    },
-    {
-      "name": "📦③线┃秒播",
-      "key": "AppV7Zjdr",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Zjdr"
-    },
-    {
-      "name": "📦④线┃秒播",
-      "key": "AppV7Xyz",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xyz"
-    },
-    {
+    },
+   {
       "name": "📦⑤线┃秒播",
       "key": "AppV7Xnm",
       "type": 3,
@@ -171,47 +180,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "AppV7Xnm"
-    },
-    {
-      "name": "📦⑥线┃秒播",
-      "key": "AppV7Mtq",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Mtq"
-    },
-    {
-      "name": "📦⑦线┃秒播",
-      "key": "AppV7Llq",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Llq"
-    },
-    {
-      "name": "📦⑧线┃秒播",
-      "key": "AppV7Xsz",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xsz"
-    },
-    {
-      "name": "📦⑨线┃秒播",
-      "key": "AppV7Xhr",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xhr"
+      "ext": "AppV7Xnm"
     }
   ]
 }
