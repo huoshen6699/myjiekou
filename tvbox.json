@@ -141,22 +141,6 @@
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
-      "key": "wawa",
-      "name": "🍼┃哇哇┃影视",
-      "type": 3,
-      "api": "https://iduo.us.ci/gt/leevi0709/one/main/py/哇哇APP.py",
-      "searchable": 1
-    },
-    {
-      "key": "橘皮",
-      "name": "🍊┃橘皮┃影视",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 1,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0718/09/bff9d4583388a55afb15a8e3c509af9b.png;md5;9AB53F593C034C2B80CDC9F4C785A6F3",
-      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
-    },
-    {
 			"key": "聚合短剧",
 			"name": "✨┃聚合┃短剧",
 			"type": 3,
@@ -171,7 +155,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Fz"
-    },
+    },
+
    {
       "name": "📦⑤线┃秒播",
       "key": "AppV7Xnm",
@@ -180,7 +165,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "AppV7Xnm"
+      "ext": "AppV7Xnm"
+
     }
   ]
 }
